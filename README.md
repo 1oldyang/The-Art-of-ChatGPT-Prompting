@@ -1,6 +1,6 @@
 # ChatGPT分门别类的中文提示语大全
 
-![扫码加群](https://github.com/1oldyang/The-Art-of-ChatGPT-Prompting/blob/main/QRGroup.png)
+![扫码加群](https://github.com/1oldyang/The-Art-of-ChatGPT-Prompting/blob/main/QRGroup1.png)
 
 扫码加群
 
