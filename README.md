@@ -7,20 +7,22 @@ ChatGPT模型是由OpenAI训练的大型语言模型，能够生成类似人类�
 要开始，请简单地克隆此存储库并使用README.md文件中的提示作为ChatGPT输入。您也可以使用此文件中的提示来启发自己创建新内容。
 我们希望您会发现这些提示有用，并且享受使用ChatGPT！
 
-**下载 ChatGPT 桌面应用程序：**
+#### 下载 ChatGPT 桌面应用程序
 
 [macOS](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64.dmg) / [Windows](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64_en-US.msi) / [Linux](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/chat-gpt_0.10.1_amd64.deb)
 >ℹ️ 注意：有时，某些提示可能无法按您的预期工作或被 AI 拒绝。请重试、开始新线程或注销并重新登录。如果这些解决方案不起作用，请尝试使用自己的句子重写提示，同时保持指令相同。
 
-**使用 ChatGPT 桌面应用程序：**
+#### 使用 ChatGPT 桌面应用程序
 
 非官方的 ChatGPT 桌面应用程序提供了一种便捷的方式来访问和使用此存储库中的提示。通过该应用程序，您可以轻松地导入所有提示，并使用斜杠命令（例如 /linux_terminal）与它们交互。这个功能消除了每次想要使用它们时手动复制和粘贴提示的需要。
 
 > 桌面应用是由 [@lencx](https://github.com/lencx/ChatGPT) 开发的一个非官方开源项目。它是 ChatGPT 网页界面的简单包装器，具有强大的额外功能。
 
 <div align="center">
-<img src="https://github.com/1oldyang/The-Art-of-ChatGPT-Prompting/blob/main/QRGroup1.png" width="300"/>
+<img src="https://github.com/1oldyang/The-Art-of-ChatGPT-Prompting/blob/main/208471439-877c2bcf-93ec-4ad9-9cb0-7e4ed7b1756a.png" width="500"/>
 </div>
+
+## ChatGPT 可以做什么？
 
 |分类|内容|
 |:---:|---|
@@ -72,6 +74,8 @@ ChatGPT模型是由OpenAI训练的大型语言模型，能够生成类似人类�
 
 #### 扫码进入↑
 </div>
+
+## ChatGPT提示语库
 
 ## **✂️模拟Linux终端**
 
