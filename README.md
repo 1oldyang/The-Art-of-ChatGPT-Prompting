@@ -7,6 +7,9 @@ ChatGPT模型是由OpenAI训练的大型语言模型，能够生成类似人类�
 要开始，请简单地克隆此存储库并使用README.md文件中的提示作为ChatGPT输入。您也可以使用此文件中的提示来启发自己创建新内容。
 我们希望您会发现这些提示有用，并且享受使用ChatGPT！
 
+#### ChatGPT中文指南免费电子书
+[在线阅读](https://1oldyangs-organization.gitbook.io/chatgpt-ti-shi-de-yi-shu-zhi-zuo-qing-xi-you-xiao-zhou-yu/)
+
 #### 下载 ChatGPT 桌面应用程序
 
 [macOS](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64.dmg) / [Windows](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64_en-US.msi) / [Linux](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/chat-gpt_0.10.1_amd64.deb)
