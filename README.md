@@ -32,7 +32,7 @@
 ## 微信群聊
 加入ChatGPT体验交流群，与AI技术领域的专家和爱好者一起探讨最前沿的信息！在这里，你可以体验到最先进的人工智能技术，与志同道合的人交流，共同提升你的知识水平。不管你是专业人士还是爱好者，都欢迎加入我们的群体！
 <div align="center">
-<img src="https://github.com/1oldyang/The-Art-of-ChatGPT-Prompting/blob/main/QRGroup1.png" width="200"/>
+<img src="https://github.com/1oldyang/The-Art-of-ChatGPT-Prompting/blob/main/QRGroup1.png" width="300"/>
 
 #### 扫码加群↑
 </div>
@@ -40,17 +40,17 @@
 ## 捐赠支持
 您好，我们非常感激您对此项目的关注和支持。我们一直在努力，提供最有价值和易于理解的指南。如果您觉得我们的项目对您有所帮助，请考虑捐赠支持我们。您的捐赠将帮助我们不断完善项目内容，为您提供更好的服务，并吸引更多的读者和使用者。谢谢您的支持！
 <div align="center">
-<img src="https://github.com/1oldyang/The-Art-of-ChatGPT-Prompting/blob/main/QRGroup1.png" width="200"/>
+<img src="https://github.com/1oldyang/The-Art-of-ChatGPT-Prompting/blob/main/wechat.png" width="300"/>
 
-#### 扫码加群↑
+<img src="https://github.com/1oldyang/The-Art-of-ChatGPT-Prompting/blob/main/alipay.png" width="300"/>
 </div>
 
 ## 知识星球
 非常感激您对此项目的关注和支持。我一直在努力，提供最有价值和易于理解的指南。如果您觉得我的项目对您有所帮助，想进一步了解更进，可以加入我的知识星球。
 <div align="center">
-<img src="https://github.com/1oldyang/The-Art-of-ChatGPT-Prompting/blob/main/QRGroup1.png" width="200"/>
+<img src="https://github.com/1oldyang/The-Art-of-ChatGPT-Prompting/blob/main/zsxq.png" width="400"/>
 
-#### 扫码加群↑
+#### 扫码进入↑
 </div>
 
 ## **✂️模拟Linux终端**
