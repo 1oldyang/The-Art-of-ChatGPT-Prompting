@@ -8,6 +8,7 @@ ChatGPT模型是由OpenAI训练的大型语言模型，能够生成类似人类�
 我们希望您会发现这些提示有用，并且享受使用ChatGPT！
 
 **下载 ChatGPT 桌面应用程序：**
+
 [macOS](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64.dmg) / [Windows](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64_en-US.msi) / [Linux](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/chat-gpt_0.10.1_amd64.deb)
 >ℹ️ 注意：有时，某些提示可能无法按您的预期工作或被 AI 拒绝。请重试、开始新线程或注销并重新登录。如果这些解决方案不起作用，请尝试使用自己的句子重写提示，同时保持指令相同。
 
