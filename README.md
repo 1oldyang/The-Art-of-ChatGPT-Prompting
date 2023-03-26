@@ -8,7 +8,7 @@ ChatGPT模型是由OpenAI训练的大型语言模型，能够生成类似人类�
 我们希望您会发现这些提示有用，并且享受使用ChatGPT！
 
 #### ChatGPT中文指南免费电子书
-[在线阅读](https://1oldyangs-organization.gitbook.io/chatgpt-ti-shi-de-yi-shu-zhi-zuo-qing-xi-you-xiao-zhou-yu/)
+[《ChatGPT提示的艺术：打造清晰有效提示的指南》](https://1oldyangs-organization.gitbook.io/chatgpt-ti-shi-de-yi-shu-zhi-zuo-qing-xi-you-xiao-zhou-yu/)
 
 #### 下载 ChatGPT 桌面应用程序
 
